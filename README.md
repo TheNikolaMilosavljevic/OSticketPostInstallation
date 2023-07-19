@@ -37,11 +37,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 Step 1: Using OSticket, navigate to the admin Panel, then agents, and then roles. Enable a supreme admin by checking all the permissions.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://imgbox.com/dzyK7NyF" target="_blank"><img src="https://thumbs2.imgbox.com/73/f6/dzyK7NyF_t.png" alt="image host"/></a></p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Step 2: Navigate to departments, going through the admin panel in os ticket, click agents, then departments. Click create new department and create a department called System administrators. </p>
 <br />
 
 <p>
