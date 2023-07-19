@@ -45,5 +45,5 @@ Step 2: Navigate to departments, going through the admin panel in os ticket, cli
 <p>
 <a href="https://imgbox.com/KAr9CfH0" target="_blank"><img src="https://thumbs2.imgbox.com/f4/18/KAr9CfH0_t.png" alt="image host"/></a></p>
 <p>
-Step 3: Going into Admin panel, under agents, then navigate to teams. Create two teams, one names "level 1 support" and the other "level 2 support". </p>
+Step 3: Go into Admin panel, under agents, then navigate to teams. Create two teams, one names "level 1 support" and the other "level 2 support". </p>
 <br />
