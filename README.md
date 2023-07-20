@@ -47,3 +47,7 @@ Step 2: Navigate to departments, going through the admin panel in os ticket, cli
 <p>
 Step 3: Go into Admin panel, under agents, then navigate to teams. Create two teams, one named "level 1 support" and the other "level 2 support". </p>
 <br />
+<a href="https://imgbox.com/ywhrH5Jw" target="_blank"><img src="https://thumbs2.imgbox.com/60/79/ywhrH5Jw_t.png" alt="image host"/></a>
+Step 4: This step will allow anyone to create tickets. In the admin panel, go to settings, then user settings, make sure that the "registration required: Require registration login to create tickets" is unchecked.
+<a href="https://imgbox.com/eQWMuQva" target="_blank"><img src="https://thumbs2.imgbox.com/fb/0b/eQWMuQva_t.png" alt="image host"/></a>
+Step 5: In the admin panel, under agents click "add new", hear you can create new users.
