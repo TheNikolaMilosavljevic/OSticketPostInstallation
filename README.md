@@ -55,4 +55,5 @@ Step 5: In the admin panel, under agents click "add new", hear you can create ne
 Step 6: In the Agent Panel, under user click "add new", this gives you the ability to create new users.
 <a href="https://imgbox.com/BeCEGR29" target="_blank"><img src="https://thumbs2.imgbox.com/dd/1c/BeCEGR29_t.png" alt="image host"/></a>
 Step 7: SLA stands for "service level agreement", this is defined as a contract between a service provider and a customer. In the admin panel, under manage click "SLA", here you can create new SLA's and adjust specific details of each SLA such as total time to complete. 
-
+<a href="https://imgbox.com/g9tV6lX9" target="_blank"><img src="https://thumbs2.imgbox.com/16/33/g9tV6lX9_t.png" alt="image host"/></a>
+Step 8: In the admin panel, under manage click "help topics", here you can add help topics such as "personal computer issues" or "password reset", in order to allow users to help themselves.
